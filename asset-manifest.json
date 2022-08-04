@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/starnavi_test/static/css/main.d31fe3a9.css",
-    "main.js": "/starnavi_test/static/js/main.89a48351.js",
+    "main.js": "/starnavi_test/static/js/main.ed5000fb.js",
     "index.html": "/starnavi_test/index.html",
     "main.d31fe3a9.css.map": "/starnavi_test/static/css/main.d31fe3a9.css.map",
-    "main.89a48351.js.map": "/starnavi_test/static/js/main.89a48351.js.map"
+    "main.ed5000fb.js.map": "/starnavi_test/static/js/main.ed5000fb.js.map"
   },
   "entrypoints": [
     "static/css/main.d31fe3a9.css",
-    "static/js/main.89a48351.js"
+    "static/js/main.ed5000fb.js"
   ]
 }
